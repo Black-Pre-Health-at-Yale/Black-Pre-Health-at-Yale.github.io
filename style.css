@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Notable&display=swap');
+body {
+    font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: navy;
+    margin: 40px;
+    background-color: f4f7c5;
+}
+
+h1 {
+    color: navy;
+    font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
+}
+nav a {
+    font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: navy;
+    margin: 10px;
+}
+.profile {
+    margin: 30px;
+    background-color: #f4f7c5;
+    border: 1px solid navy;
+    padding: 20px;
+    border-radius: 10px;  
+} 
+.block {
+    display: inline;
+}
