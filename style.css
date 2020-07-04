@@ -27,3 +27,6 @@ nav a {
 .block {
     display: inline;
 }
+a {
+    color: white
+}
