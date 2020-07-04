@@ -2,25 +2,25 @@
 body {
     font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
     font-size: medium;
-    color: navy;
+    color: white;
     margin: 40px;
     background-color: f4f7c5;
 }
 
 h1 {
-    color: navy;
+    color:white;
     font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
 }
 nav a {
     font-family: 'Abril Fatface', Arial, Helvetica, sans-serif;
     font-size: larger;
-    color: navy;
+    color: white;
     margin: 10px;
 }
 .profile {
     margin: 30px;
-    background-color: #f4f7c5;
-    border: 1px solid navy;
+    background-color: #0F4D92;
+    border: 1px solid white;
     padding: 20px;
     border-radius: 10px;  
 } 
